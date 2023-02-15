@@ -8,7 +8,7 @@
         </div>
         <div class="row">
             <div class="col">   <a href="listeNationnalite.php" class='btn btn-warning' > Revenir à la liste </a>    </div>
-            <div class="col"><button type='submit'  class='btn btn-success' >  Ajouter   </button>   </div>
+            <div class="col"><button type='submit'  class='btn btn-success' >  Ajouter la nationalité   </button>   </div>
         </div>
 
 
